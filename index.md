@@ -9,3 +9,9 @@ This is the content
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+### This is a Task list ( The formatting is specific! )
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
